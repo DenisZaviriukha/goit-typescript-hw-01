@@ -91,4 +91,6 @@
 //     jacket: false,
 //     hat: true,
 // }
+let tuple;
+tuple = ['one', 'two', 'three', 1, 2, 3];
 //# sourceMappingURL=index.js.map

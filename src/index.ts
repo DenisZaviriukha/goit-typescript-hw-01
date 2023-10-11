@@ -117,3 +117,7 @@
 //     jacket: false,
 //     hat: true,
 // }
+
+let tuple: (string | number)[]
+
+tuple = ['one', 'two', 'three', 1, 2, 3]
